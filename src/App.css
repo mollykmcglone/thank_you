@@ -1,0 +1,93 @@
+.photo {
+  text-align: center;
+  align-items: center;
+}
+
+.spacer {
+  height: 400px;
+  background-color: transparent;
+}
+
+.footer {
+  height: 100px;
+  background-color: #f1f1f1;
+}
+
+.App-header {
+  height: 100px;
+  padding: 25px;
+  color: black;
+  background-color: #FFF;
+  opacity:0.7;
+  font-size: large;
+}
+
+.photo {
+  margin: 0;
+  padding: 0;
+  background: url(../public/erik2.jpg) no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.App-intro {
+  color: white;
+  line-height: 1.5em;
+}
+
+#intro {
+  margin-right: 100px;
+  margin-left: 100px;
+  align-items: center;
+  height: 250px;
+  padding-top: 80px;
+}
+
+.outer-middle {
+  background-color: #f1f1f1;
+  margin: 0;
+  padding: 0;
+  min-height: 425px;
+  align-items: center;
+}
+
+.middle {
+  padding-top: 25px;
+  margin-left: 100px;
+  margin-right: 100px;
+  font-size: large;
+  padding-bottom: 25px;
+}
+
+.blue {
+  color: blue;
+}
+
+.red {
+  color: red;
+}
+
+.green {
+  color: yellow;
+  background-color: green;
+}
+
+.end {
+  padding-top: 25px;
+  color: white;
+  font-size: large;
+  text-align: right;
+  margin-right: 25px;
+}
+
+.photo2 {
+  margin: 0;
+  padding: 0;
+  background: url(../public/erik3.jpg) no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
