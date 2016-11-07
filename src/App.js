@@ -29,7 +29,7 @@ class App extends Component {
           </div>
         </div>
         <div className="photo2">
-          <div className="spacer"></div>
+          <div className="spacer2"></div>
         </div>
         <div className="footer">
           <div className="end">

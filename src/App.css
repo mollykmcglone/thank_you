@@ -8,8 +8,13 @@
   background-color: transparent;
 }
 
+.spacer2 {
+  height: 700px;
+  background-color: transparent;
+}
+
 .footer {
-  height: 100px;
+  height: 200px;
   background-color: #f1f1f1;
 }
 
@@ -76,7 +81,7 @@
 
 .end {
   padding-top: 25px;
-  color: white;
+  color: black;
   font-size: large;
   text-align: right;
   margin-right: 25px;
